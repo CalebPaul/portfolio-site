@@ -20,6 +20,10 @@
   padding-bottom: 20px;
 }
 
+.row:nth-child(3) p {
+  font-size-adjust: auto;
+}
+
 .recentwork {
   text-align: center;
 }
@@ -41,6 +45,7 @@
   border: 1px solid;
   border-color: #999999;
   border-radius: 10px;
+  padding-bottom: 5px;
 }
 
 .header-bg {
