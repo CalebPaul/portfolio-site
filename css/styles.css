@@ -13,17 +13,27 @@
   font-family: monospace;
 }
 
+.row:nth-child(3) {
+  border: 1px solid;
+  border-color: #999999;
+  border-radius: 10px;
+}
+
 .recentwork {
   text-align: center;
 }
 
-.whitespace-above {
-  margin-top: 8em;
+.glyphicon-menu-right {
+  font-size: 1600%;
+  color: #999999;;
 }
 
+.whitespace-above {
+  margin-top: 4em;
+}
 
-.less-whitespace-above {
-  margin-top: 2em;
+.whitespace-below {
+  margin-bottom: 4em:
 }
 
 .project1 {
@@ -37,8 +47,9 @@
 }
 
 .project3 {
-  padding-top: 1em;
-  font-family: monospace;
+  border: 1px solid;
+  border-color: #999999;
+  border-radius: 10px;
 }
 
 .header-bg {
@@ -53,5 +64,5 @@
 }
 
 body {
-  padding-bottom: 50px;
+  padding-bottom: 70px;
 }
