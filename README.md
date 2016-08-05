@@ -23,7 +23,7 @@ There is a floating nav bar at the bottom with working contact button.
 
 ## Known Bugs
 
-Home and About links in navbar are broken.
+None known
 
 ## Support and contact details
 
