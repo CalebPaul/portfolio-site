@@ -17,6 +17,7 @@
   border: 1px solid;
   border-color: #999999;
   border-radius: 10px;
+  padding-bottom: 20px;
 }
 
 .recentwork {
@@ -29,24 +30,14 @@
 }
 
 .whitespace-above {
-  margin-top: 4em;
+  margin-top: 3em;
 }
 
 .whitespace-below {
   margin-bottom: 4em:
 }
 
-.project1 {
-  padding-top: 1em;
-  font-family: monospace;
-}
-
-.project2 {
-  padding-top: 1em;
-  font-family: monospace;
-}
-
-.project3 {
+.project {
   border: 1px solid;
   border-color: #999999;
   border-radius: 10px;
@@ -65,4 +56,8 @@
 
 body {
   padding-bottom: 70px;
+}
+
+img {
+  align-content: center;
 }
