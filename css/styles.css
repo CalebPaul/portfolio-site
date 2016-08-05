@@ -37,8 +37,13 @@ img {
 }
 
 .glyphicon-menu-right {
-  font-size: 1500%;
-  color: #999999;;
+  font-size: 1200%;
+  color: #14f000;
+}
+
+.glyphicon-menu-down {
+  font-size: 800%;
+  color: #14f000;
 }
 
 .whitespace-above {
