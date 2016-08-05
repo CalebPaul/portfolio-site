@@ -12,3 +12,46 @@
   text-align: center;
   font-family: monospace;
 }
+
+.recentwork {
+  text-align: center;
+}
+
+.whitespace-above {
+  margin-top: 8em;
+}
+
+
+.less-whitespace-above {
+  margin-top: 2em;
+}
+
+.project1 {
+  padding-top: 1em;
+  font-family: monospace;
+}
+
+.project2 {
+  padding-top: 1em;
+  font-family: monospace;
+}
+
+.project3 {
+  padding-top: 1em;
+  font-family: monospace;
+}
+
+.header-bg {
+  width: 100%;
+  height: 100%;
+  height: calc(100% - 1px);
+  background-size: cover;
+}
+
+.header-bg img {
+  width:100%;
+}
+
+body {
+  padding-bottom: 50px;
+}
