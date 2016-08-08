@@ -1,6 +1,6 @@
 # Caleb Paul's Portfolio Site
 
-#### A portfolio sute using Bootstrap, HTML, and CSS, {08-05-16}_
+#### A portfolio site using Bootstrap, HTML, and CSS, {08-05-16}_
 
 #### By _**Caleb Paul**_
 
@@ -34,8 +34,6 @@ Email me at calebpaul21@gmail.com with any questions.
 Bootstrap
 
 ### License
-
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 
 Copyright (c) 2016 **Caleb Paul**
 This website is licensed under the MIT license.
