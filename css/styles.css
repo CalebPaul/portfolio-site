@@ -6,6 +6,10 @@ img {
   align-content: center;
 }
 
+.fadetext {
+  display: none;
+}
+
 .page-header {
   text-align: center;
   font-family: monospace;
