@@ -6,6 +6,14 @@ img {
   align-content: center;
 }
 
+ul.nav a:hover {
+  color: #14f000 !important;
+}
+
+.fadetext {
+  display: none;
+}
+
 .page-header {
   text-align: center;
   font-family: monospace;
